@@ -378,8 +378,7 @@ section{
 @media (max-width:990px){
 
     #menu-icon{
-        display: block;
-        
+        display: block;  
     }
     .navlist{
         position: absolute;
@@ -457,12 +456,5 @@ section{
     }
 }
 
-@media (max-width:442px){
-
-    .hero-img img{
-        width: 40%;
-        height: auto;
-    }
-}
 
 
